@@ -1,0 +1,12 @@
+--- Veri Analiz Raporu ---
+
+Geçerli Kayıt Sayısı: 5
+Ortalama Yaş: 30 yıl
+-------------------------
+Şehirlere Göre Dağılım:
+  - Ankara: 1 kişi
+  - Trabzon: 2 kişi
+  - İstanbul: 1 kişi
+  - İzmir: 1 kişi
+-------------------------
+İşlem Başarıyla Tamamlandı.

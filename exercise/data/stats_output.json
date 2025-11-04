@@ -1,0 +1,10 @@
+{
+    "valid_count": 5,
+    "average_age": 30,
+    "count_by_city": {
+        "Trabzon": 2,
+        "İstanbul": 1,
+        "Ankara": 1,
+        "İzmir": 1
+    }
+}
