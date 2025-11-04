@@ -41,4 +41,4 @@ Geçerli kayıtlar üzerinden hesaplanan istatistikler (toplam sayı, ortalama y
 
 İstatistiklerin okunabilir metin formatındaki raporu:
 
-![Özet Rapor](ss/2.png)
+![Özet Rapor](ss/1.png)
